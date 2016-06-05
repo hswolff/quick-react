@@ -2,6 +2,22 @@
 
 it's a cli of sorts for react.
 
+## install
+
+```sh
+npm install -g quick-react
+```
+
+## getting started
+
+
+```sh
+quick-react new my-new-app
+cd my-new-app
+npm install
+quick-react run client.js
+```
+
 
 ## todo list
 
