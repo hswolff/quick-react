@@ -1,0 +1,13 @@
+{
+  "name": "quick-react-example",
+  "version": "1.0.0",
+  "description": "my quick react app",
+  "dependencies": {
+    "quick-react": "1.0.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-hot-loader": "^3.0.0-beta.2"
+  },
+  "devDependencies": {
+  }
+}
